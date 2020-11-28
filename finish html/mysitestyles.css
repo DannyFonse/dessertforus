@@ -1,0 +1,46 @@
+body{
+backgroung-color: Green;
+margian-top: 0 10%;
+font-family: sans-serif;
+background-image: url(cupcake.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: contain;
+background-attachment: fixed;
+}
+h1{
+border: 1px solid #57b1dc;
+margin-top: 30px;
+text-align: center;
+font-family: "Castoro",Georgia, serif;
+font-weight: normal;
+text-transform: uppercase;
+border-bottom: 1px solid #57b1dc;
+text-shadow: .05em .05em gray;
+color: Blue;
+}
+h2{ 
+color: Orange;
+border: 1px solid #57b1dc;
+margin-top: 30px;
+text-align: center;
+font-family: "Castoro",Georgia, serif;
+text-shadow: .05em .05em gray;
+}
+.price { font-family: Georgia, serif; font-style: italic; color: gray; }
+p{
+text-align: center;
+color: red;
+}
+a{
+text-transform: uppercase;
+}
+strong{
+color: #57b1dc;
+font-family: Verdana,sans-serif;
+}
+a:link{color:red;}
+a:visited{color: black;}
+a:focus{color: blue; background-color: #ffd9d9}
+a:hover{color: yellow; background-color: #ffd9d9}
+a:active{color: grey; background-color: #ffd9d9}
